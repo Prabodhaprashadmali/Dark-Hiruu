@@ -19,18 +19,18 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94704101989']
-global.premium = ['94704101989']
-global.ownernomer = '94704101989'
-global.ownername = '❤️S_I_H_I_L_E_L❤️'
-global.botname = '❤️𝙷𝙸𝚁𝚄𝚄_𝚀𝚄𝙴𝙴𝙽_𝙱𝙾𝚃❤️'
-global.footer = '©Sihilel.'
-global.ig = 'https://github.com/nexusNw'
-global.region = 'India, South India, Kerala'
-global.sc = 'https://github.com/Dark-Sihilel/Dark-Hiruu'
-global.myweb = 'Channel එකක් නෑ 😹'
-global.packname = '❤️HIRUU-QUEEN❤️'
-global.author = '❤️S_I_H_I_L_E_L❤️'
+global.owner = ['94704209801']
+global.premium = ['94704209801']
+global.ownernomer = '94704209801'
+global.ownername = '❤️ℙ𝕋𝔸𝔹𝕆𝔻ℍ𝔸 ℙℝ𝔸𝕊ℍ𝔸𝔻 𝕄𝔸𝕃𝕀ℕ𝔾𝔸❤️'
+global.botname = '❤️ℙℝ𝔸𝔹𝕆𝔻ℍ𝔸 ℙℝ𝔸𝕊ℍ𝔸𝔻 𝕄𝔸𝕃𝕀ℕ𝔾𝔸 𝔹𝕆𝕋❤️'
+global.footer = '©ℙℝ𝔸𝔹𝕆𝔻ℍ𝔸 ℙℝ𝔸𝕊ℍ𝔸𝔻 𝕄𝔸𝕃𝕀ℕ𝔾𝔸.'
+global.ig = 'https://chat.whatsapp.com/Jow3H9DlzNw4XjLRCfmxsy'
+global.region = '𝕊ℝ𝕀  𝕃𝔸ℕ𝕂𝔸'
+global.sc = 'https://chat.whatsapp.com/Jow3H9DlzNw4XjLRCfmxsy'
+global.myweb = 'https://chat.whatsapp.com/Jow3H9DlzNw4XjLRCfmxsy'
+global.packname = '❤️ℙℝ𝔸𝔹𝕆𝔻ℍ𝔸 ℙℝ𝔸𝕊ℍ𝔸𝔻 𝕄𝔸𝕃𝕀ℕ𝔾𝔸❤️'
+global.author = '❤️ℙℝ𝔸𝔹𝕆𝔻ℍ𝔸 ℙℝ𝔸𝕊ℍ𝔸𝔻 𝕄𝔸𝕃𝕀ℕ𝔾𝔸❤️'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
